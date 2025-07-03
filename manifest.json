@@ -1,0 +1,8 @@
+{
+  "name": "wifi-info",
+  "version": "1.0.0",
+  "description": "Adds connected SSID to the device details tab in MeshCentral.",
+  "author": "ChatGPT for Brett Sanford",
+  "license": "MIT",
+  "main": "plugin.js"
+}
