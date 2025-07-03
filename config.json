@@ -6,7 +6,7 @@
   "description": "Adds connected SSID to the device details tab.",
   "hasAdminPanel": false,
   "homepage": "https://github.com/bcsanford/meshcentral-plugin-wifi-info",
-  "downloadUrl": "https://github.com/bcsanford/meshcentral-plugin-wifi-info/releases/download/v1.0.0/wifi-info.zip",
+  "downloadUrl": "https://github.com/bcsanford/meshcentral-plugin-wifi-info/releases/latest/download/wifi-info.zip",
   "repository": {
     "type": "git",
     "url": "https://github.com/bcsanford/meshcentral-plugin-wifi-info.git"
