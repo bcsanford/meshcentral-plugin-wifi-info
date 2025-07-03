@@ -1,6 +1,6 @@
 {
   "Name": "wifi-info",
-  "ShortName": "wifi-info",
+  "ShortName": "wifiinfo",
   "version": "1.0.0",
   "author": "bcsanford",
   "description": "Adds connected SSID to the device details tab in MeshCentral.",
