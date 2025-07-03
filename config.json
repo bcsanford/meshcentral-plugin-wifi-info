@@ -1,6 +1,6 @@
 {
   "name": "WiFi Info",
-  "shortName": "wifi-info",
+  "shortName": "meshcentral-plugin-wifi-info",
   "version": "1.0.0",
   "author": "bcsanford",
   "description": "Adds connected SSID to the device details tab.",
