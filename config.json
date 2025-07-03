@@ -1,0 +1,18 @@
+{
+  "Name": "wifi-info",
+  "ShortName": "wifi-info",
+  "version": "1.0.0",
+  "author": "bcsanford",
+  "description": "Adds connected SSID to the device details tab in MeshCentral.",
+  "hasAdminPanel": false,
+  "homepage": "https://github.com/bcsanford/meshcentral-plugin-wifi-info",
+  "changelogUrl": "https://raw.githubusercontent.com/bcsanford/meshcentral-plugin-wifi-info/main/changelog.md",
+  "configUrl": "https://raw.githubusercontent.com/bcsanford/meshcentral-plugin-wifi-info/main/config.json",
+  "downloadUrl": "https://github.com/bcsanford/meshcentral-plugin-wifi-info/archive/main.zip",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bcsanford/meshcentral-plugin-wifi-info.git"
+  },
+  "versionHistoryUrl": "https://github.com/bcsanford/meshcentral-plugin-wifi-info/tags",
+  "meshCentralCompat": ">=0.9.98"
+}
